@@ -8,3 +8,5 @@ This SOAP server is based on Apache CXF. 2 operations are available :
 This example works with the proxy and the ServiceUiScaffolder examples.
 
 To run the server : java -jar target/server-0.0.1-SNAPSHOT-with-dep.jar
+
+This server runs on the port 9000.
